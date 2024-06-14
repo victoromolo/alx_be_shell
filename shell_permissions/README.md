@@ -1,1 +1,1 @@
-this prints the username of the current user this script creates an empty file called helo this adds execution permissions to the owner of the file hello  switches the current user to the user betty
+this prints the username of the current user this script creates an empty file called helo this adds execution permissions to the owner of the file hello this script adds execution permission to the owner and the group owner and read permission to the other users to the file hello  switches the current user to the user betty
